@@ -30,4 +30,4 @@ Shows image result for searched photo.
 6. Start the bot using `node .` or `node index.js`
 
 ### License
-You can find the license in the `LICENSE.md` file
+There is no license :sunglasses:
