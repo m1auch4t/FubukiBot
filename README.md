@@ -1,11 +1,9 @@
-# FubukiBot
+# IMGBot
 
-### FubukiBot invite link
-You can invite the bot to your server using [this domian!](http://fubukibot.gq)
-Direct link: http://fubukibot.gq
+# PROJECT ABANDONED!
 
 ### About
-FubukiBot is an discord bot mainly for searching images.
+IMGBot is an discord bot mainly for searching images.
 
 ### Commands
 #### +cmds
@@ -17,9 +15,9 @@ Shows image result for searched photo.
 
 ### Installation
 1. Open CMD with Git installed
-2. Type `git clone github.com/m1auch4t/FubukiBot`
-3. Change your CMD directory (example: `cd c:\users\m1auch4t\bot\FubukiBot`)
-4. Install required node modules (`discord.js, request, cheeerio`) using `npm install [module]`
+2. Type `git clone github.com/m1auch4t/IMGBot`
+3. Change your CMD directory (example: `cd c:\users\m1auch4t\bot\IMGBot`)
+4. Install required node modules (`discord.js, request, cheerio`) using `npm install [module]`
 5. Create config.json file with:
 ```
 {
@@ -30,4 +28,4 @@ Shows image result for searched photo.
 6. Start the bot using `node .` or `node index.js`
 
 ### License
-There is no license :sunglasses:
+The project is abandoned, do whatever ya want
