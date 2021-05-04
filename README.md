@@ -2,6 +2,11 @@
 
 # PROJECT ABANDONED!
 
+### Reqs
+- node.js
+- npm
+- node modules (explained in installation)
+
 ### About
 IMGBot is an discord bot mainly for searching images.
 
